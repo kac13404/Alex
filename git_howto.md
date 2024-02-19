@@ -105,5 +105,6 @@ git checkout master
 git diff
 ```
 
-![Изображение](https://w7.pngwing.com/pngs/147/495/png-transparent-smiley-thumb-signal-emoticon-meme-smiley-love-miscellaneous-face.png)
+![Изображение](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
+
 ***НА ЭТОМ ВСЁ! ВСЕМ БОЛЬШОЕ СПАСИБО***
