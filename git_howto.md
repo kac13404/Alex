@@ -28,8 +28,30 @@ git config --global user.name "Alexandr Kuzmin"
 git config --global user.email kac13404@gmail.com
 ```
 
+## Инициализация репозитория в каталоге
 
-Создание репозитория:
+1. Создаем папку с проектом в удобном для Вас месте
+2. Для контроля Вашего проекта с помощью *GIT*, необходимо для начала перейти в данный каталог, для этого вводим в *GIT* следующую команду:
+
+- для Windows:
+
+```sh
+cd C:/Users/user/my_project
+```
+
+- для MacOs:
+
+```sh
+cd /Users/user/my_project
+```
+
+- для Linux:
+
+```sh
+cd /home/user/my_project
+```
+
+3. Инициализация локального репозитория:
 
 ```sh
 git init
