@@ -105,6 +105,12 @@ git checkout master
 git diff
 ```
 
+Отображение всех веток
+```sh
+git branch
+```
+
+
 ![Изображение](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
 
 ***НА ЭТОМ ВСЁ! ВСЕМ БОЛЬШОЕ СПАСИБО***
