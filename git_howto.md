@@ -90,7 +90,7 @@ git log --oneline
 9. Переход от одного *-commit* к другому:
 
 ```sh
-git checkout <branch_name>
+git checkout <имя_ветки>
 ```
 
 10. Вернуться к актуальному состоянию и продолжить работу:
@@ -104,6 +104,12 @@ git checkout master
 ```sh
 git diff
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
+
 
 ![Изображение](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
 
