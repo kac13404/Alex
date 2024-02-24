@@ -72,7 +72,7 @@ git add
 6. Создание *-commit*:
 
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 7. Вывод на экран истории всех *-commit* с их хеш-кодами:
