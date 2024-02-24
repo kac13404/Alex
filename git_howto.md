@@ -90,7 +90,7 @@ git log --oneline
 9. Переход от одного *-commit* к другому:
 
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 
 10. Вернуться к актуальному состоянию и продолжить работу:
