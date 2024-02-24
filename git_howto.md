@@ -110,6 +110,12 @@ git diff
 git branch
 ```
 
+Создание новой ветки
+```sh
+git branch <имя_ветки>
+```
+
+
 
 ![Изображение](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
 
