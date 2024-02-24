@@ -32,3 +32,6 @@
 Текст [пример ссылки](http.example.com "Всплывающая подсказка")
 
 # Добавим как добавлять картинки в MarkDown
+
+Это смайл
+![Смайл](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
