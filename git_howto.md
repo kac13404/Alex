@@ -105,7 +105,8 @@ git checkout master
 git diff
 ```
 
-Отображение всех веток
+12. Отображение всех веток
+
 ```sh
 git branch
 ```
@@ -115,7 +116,12 @@ git branch
 git branch <имя_ветки>
 ```
 
+Удаление ветки
+```sh
+git branch -d <имя_ветки>
+```
 
+git log --oneline --graph
 
 ![Изображение](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
 
