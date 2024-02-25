@@ -121,7 +121,13 @@ git branch <имя_ветки>
 git branch -d <имя_ветки>
 ```
 
+Отображение ветки слияния
+
+```sh
 git log --oneline --graph
+```
+
+
 
 ![Изображение](https://polotnos.cdnbro.com/posts/30825705-smailiki-razvodiashchie-rukami-8.jpg)
 
